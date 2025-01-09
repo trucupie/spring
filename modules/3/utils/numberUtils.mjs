@@ -1,0 +1,1 @@
+export const divide = (num, num2) => num / num2;
