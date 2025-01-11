@@ -1,0 +1,14 @@
+/* Your Styles Here */
+#search-form {
+    display: inline;
+}
+#gif-container img {
+    margin: 10px;
+}
+
+#remove-images {
+    background-color: red;
+    color: white;
+    border: none;
+    display: inline;
+}
