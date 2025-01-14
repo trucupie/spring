@@ -1,0 +1,13 @@
+.MissionCard {
+    border: 2px solid white;
+    margin: 15px 5px;
+    padding: 0px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MissionCard p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}

@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background-color: black;
+}
+button {
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100px;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+button:hover {
+    background-color: gray;
+}
