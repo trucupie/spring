@@ -1,0 +1,11 @@
+.health-value {
+  font-weight: bold;
+}
+
+.player-health {
+  color: green;
+}
+
+.enemy-health {
+  color: red;
+}
