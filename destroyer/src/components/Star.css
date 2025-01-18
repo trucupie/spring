@@ -1,0 +1,13 @@
+.Star {
+  font-size: 100px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50x;
+  height: 50px;
+  cursor: pointer;
+  transition: transform 2s;
+  color: #fff762;
+  border-radius: 50%;
+}
