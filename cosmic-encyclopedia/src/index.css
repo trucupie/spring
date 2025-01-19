@@ -1,0 +1,53 @@
+:root {
+  --primary: grey;
+  --secondary: black;
+}
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: "Poppins";
+  background: var(--secondary);
+}
+* {
+  color: #fff;
+  margin: 0;
+}
+p {
+  margin: 20px 0;
+}
+
+/* navbar */
+header {
+  border: 2px solid white;
+  padding: 10px;
+}
+header nav {
+  display: flex;
+  gap: 10%;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+header nav a{
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 4px;
+}
+header nav a.active {
+  color: var(--primary);
+}
+
+/* page content */
+main {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+button {
+  border: 0;
+  padding: 8px;
+  border-radius: 4px;
+  color: white;
+  background: var(--primary);
+  cursor: pointer;
+}
