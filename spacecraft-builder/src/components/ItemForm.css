@@ -1,0 +1,30 @@
+.ItemForm input {
+width: 100%;
+margin: 10px 0px;
+}
+.ItemForm label {
+    display: block;
+    width: 100%;
+    margin: 10px 0px;
+    }
+.ItemForm label input {
+    width: auto;
+    margin-right: 10px;
+}
+.ItemForm textarea {
+    width: 100%;
+    height: 100px;
+    margin: 10px 0px;
+}
+.ItemForm button {
+    border: 2px solid green;
+    float: right;
+}
+.input-err {
+    border: 1px solid red;
+}
+.error {
+     color: red;
+     font-size: 0.8rem;
+     margin-top: 0.2rem;
+}

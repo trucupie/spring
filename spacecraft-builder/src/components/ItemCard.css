@@ -1,0 +1,9 @@
+.ItemCard {
+    border: 2px solid white;
+    padding: 0px 20px 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.ItemCard p {
+    margin:5px;
+}
